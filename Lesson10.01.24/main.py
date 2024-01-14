@@ -40,7 +40,7 @@ def key_pressed(event):
 
 master = tkinter.Tk()
 
-step = 32
+step = 64
 N_X = 10
 N_Y = 10
 WIDTH = step * N_X
